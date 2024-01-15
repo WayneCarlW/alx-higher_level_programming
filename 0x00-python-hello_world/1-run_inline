@@ -1,4 +1,2 @@
 #!/bin/bash
-if [ -z "$PYCODE" ]; then
-	exit 1
 python3 "$PYCODE"
