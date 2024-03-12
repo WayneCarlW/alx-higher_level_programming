@@ -4,6 +4,7 @@ number = random.randint(-10000, 10000)
 k = number % 10
 
 print("Last digit of", end=" ")
+print(number, end=" ")
 print("is", end=" ")
 print(k, end=" ")
 
