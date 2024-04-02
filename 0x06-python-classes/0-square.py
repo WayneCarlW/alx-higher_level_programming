@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+"""Square class"""
 
-class Square:
+class Square():
+    """Empty class created by program"""
     pass
