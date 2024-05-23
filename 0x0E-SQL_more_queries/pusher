@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+git add .
+echo -e "Enter your commit message:\n"
+read message
+git commit -m "$message"
+git push
